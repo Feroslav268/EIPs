@@ -1,0 +1,5 @@
+gh pr checkout 9333{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
